@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A just apology for His Sacred Majestie, or, An ansvver to a late lying and scandalous pamphlet intituled, Behold two letters, the one written by the Pope the then Prince of Wales, now King of England : the other, an answer to the said letter by the said Prince, now his Majesty of England printed in the yeer of discoveries, 1642 : by which is discovered unto His Majesties lovall subjects, how our soveraign hath bin basely abused, both by the penner and printer thereof to the scandall and derogation of His most Excellent Majestie / by J. L. ...</title>
+            <author>J. L., Acad. Cant. in Art. Mag.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48305</idno>
+            <idno type="STC">Wing L187</idno>
+            <idno type="STC">ESTC R15970</idno>
+            <idno type="EEBO-CITATION">12654466</idno>
+            <idno type="OCLC">ocm 12654466</idno>
+            <idno type="VID">65319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65319)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E154, no 21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A just apology for His Sacred Majestie, or, An ansvver to a late lying and scandalous pamphlet intituled, Behold two letters, the one written by the Pope the then Prince of Wales, now King of England : the other, an answer to the said letter by the said Prince, now his Majesty of England printed in the yeer of discoveries, 1642 : by which is discovered unto His Majesties lovall subjects, how our soveraign hath bin basely abused, both by the penner and printer thereof to the scandall and derogation of His most Excellent Majestie / by J. L. ...</title>
+                  <author>J. L., Acad. Cant. in Art. Mag.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for Robert Wood,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>Iuly 8, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Gregory --  XV, --  Pope, 1554-1623. --  Behold!  Two letters, the one written by the Pope, to the, then, Prince of Wales.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65319:1"/>
+            <pb facs="tcp:65319:1" rendition="simple:additions"/>
+            <p>A JUST APOLOGY For His Sacred MAJESTIE OR, AN ANSVVER TO <hi>A</hi> Late Lying and Scandalous Pamphlet, INTITULED, BEHOLD TWO LETTERS, THE ONE written by the Pope to the (then) Prince of <hi>Wales,</hi> now King of <hi>England.</hi> The other, an Anſwer to the ſaid Letter, by the ſaid Prince, now his Majeſty of ENGLAND.</p>
+            <p>
+               <hi>Printed in the Yeer of Diſcoveries,</hi> 1642.</p>
+            <p>By which is Diſcovered unto His Majeſties Loyall Subjects, how our Soveraign hath bin baſely abuſed, both by the Penner and printer thereof to the ſcandall and derogation of his moſt Excellent Majeſtie.</p>
+            <p>By J. L. <hi>Acad. Cant. in Art. Mag.</hi>
+            </p>
+            <p>
+               <hi>Iuly</hi> 8. Printed for <hi>Robert Wood,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65319:2"/>
+            <pb facs="tcp:65319:2"/>
+            <head>A Juſt APOLOGJE For His Sacred MAJESTIE.</head>
+            <p>OF all Kingdoms in <hi>Chriſtendome,</hi> there is none comparable to this of <hi>England,</hi> and of all Princes in the vaſt world, there is none to be paralel'd to our gracious Soveraign; who for his Piety and Clemencie, Prudence, Ju<g ref="char:EOLhyphen"/>ſtice, Fortitude, and Temperance, may be a Pattern to other Potentates, and a Preſident to ſucceeding Monarchs. This is our felicity, but <hi>hinc illae la<g ref="char:EOLhyphen"/>chrymae,</hi> here's our miſery; Never did any King or Kingdome ſuffer more then this Kingdome hath done. What with the Romiſh Rebels in <hi>Ireland,</hi> and the ſeditious ſchiſmaticks in <hi>England,</hi> the King is grievouſly diſcontented, and the Kingdome mi<g ref="char:EOLhyphen"/>ſerably diſtracted. Maſſes amongſt the <hi>Romaniſts,</hi> and Conventicles amongſt the <hi>Separatiſts,</hi> the Popiſh Superſtitions of the one, and the Factious
+<pb facs="tcp:65319:3"/>Innovations of the other are the two main grounds of all the diſturbances of the peace and tranquili<g ref="char:EOLhyphen"/>ty of this Church and State. The Papiſts and the Sectaries are the two malignant parties. Theſe are the <hi>Ionahs</hi> that have rais'd the tempeſt, theſe are the <hi>Achans</hi> that have troubled our <hi>Iſrael.</hi>
+            </p>
+            <p>Tis true, there is a malignant party on both ſides, both in the <hi>North,</hi> and in the <hi>South:</hi> The former is not ſo far diſtant from us but wee eaſily ſee the ſtorm is a comming (from little Spring flow great ſtreams) and the latter is ſo neer us, that wee have long diſcerned the Clouds gathering toge<g ref="char:EOLhyphen"/>ther.</p>
+            <p>I pray God in his good time ſtay the violence of the one, and diſſipate the diſaſter of the other, that the glory may be his, and the comfort ours.</p>
+            <p>It cannot be denyed, that the Parliament (being the repreſentative body of the whole Nation, the great Councell of the King and His Kingdome) is the ſupreameſt Court of Judicature, to which all other Courts are inferiour, and therefore it is im<g ref="char:EOLhyphen"/>poſſible that ſuch an aggregate body as that Ho<g ref="char:EOLhyphen"/>nourable Aſſembly is, ſhould do any injury, <hi>vel ex <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dio, vel ex livore;</hi> yet there may be ſome obſtru<g ref="char:EOLhyphen"/>ctions, which haply may intercept and hinder the free intercourſe of their proceedings.</p>
+            <p>In like manner we muſt acknowledge that the King can do no wrong, it is a maxime in the Law. If injury be committed, wee muſt not impute it to His Majeſty, but reflect it upon the deſperate Ca<g ref="char:EOLhyphen"/>valeirs, thoſe ill-affected ſpirits, who may juſtly be termed the malignant Party.</p>
+            <pb facs="tcp:65319:3"/>
+            <p>Alwayes we muſt be circumſpect and carefull to preſerve the Honour and Dignity of His Ma<g ref="char:EOLhyphen"/>jeſty: For he is <hi>Fons Juſtitiae;</hi> in which ſence wee may as truly ſay that he is <hi>Sol Iuſtitiae.</hi> Like the Sun he ſhines gloriouſly in the Meridian of His Splendor; and yet ſometimes by the Interpoſiti<g ref="char:EOLhyphen"/>on of the Clouds, hee doth not appear ſo comfor<g ref="char:EOLhyphen"/>tably (as oterwiſe he would) to his people. What thoſe Clouds are, which at this time are about His Majeſty we are not ſo dim-ſighted, but wee may quickly diſcern. <hi>Caetera quis neſcit?</hi> That our Sun hath of late dayes bin obnubilated and Eclip<g ref="char:EOLhyphen"/>ſed, the cauſe is not in himſelf, but in the Clouds, thoſe wandring Clouds, that have too much pre<g ref="char:EOLhyphen"/>ſumed upon the glorie and ſplendor of his grace and goodneſſe.</p>
+            <p>Theſe at <hi>Yorke,</hi> and many more here in <hi>London,</hi> are the malignant Partie (in whom wee may not confide) who have bereav'd and rob'd his Majeſty of his Native and wonted Luſter, They have in<g ref="char:EOLhyphen"/>jua<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouſly diſtempered the head and the whole bo<g ref="char:EOLhyphen"/>die, and they have furiouſly made the breaches wi<g ref="char:EOLhyphen"/>der, and the wounds deeper.</p>
+            <p>In the number of theſe I ſhall ranke a Calumnia<g ref="char:EOLhyphen"/>ting Pamphleteir, whoſe impudence was grown to that hight of impietie, that hee durſt with thoſe Gyants <hi>Theoumakein,</hi> ſtrike at Majeſtie it ſelfe, the annointed of the Lord, and the breath of our No<g ref="char:EOLhyphen"/>ſtrils.</p>
+            <q>
+               <l>He who his King affronts, the like would doe,</l>
+               <l>To'th King of Kings, could he come at him too.</l>
+            </q>
+            <pb facs="tcp:65319:4"/>
+            <p>He was not aſhamed firſt to compoſe, then to expoſe to the publike view of the world two fay<g ref="char:EOLhyphen"/>ned Letters, with an impious intent to defame His Majeſty, for his ſo long abſence in perſon, farre di<g ref="char:EOLhyphen"/>ſtance in reſidence, and much difference in Coun<g ref="char:EOLhyphen"/>cels from his great Councel, the <hi>Parliament,</hi> I am perſwaded, that this plot was firſt invented at <hi>Rome</hi> next tranſported to <hi>France,</hi> from thence brought over to <hi>England,</hi> and here arriv'd at <hi>London,</hi> with a malicious purpoſe of this detracting Conſpirator, to make our King diſtaſtfull to the ears and hearts of his people. Sure, he was ſome ill-affected Papiſt or ſome malignant Btowniſt, that durſt attempt ſuch a deſign againſt our moſt gracious Sovereign, who as he hath beene formerly educated from his cradle, ſo he hath ever ſince continued, and to his dying day alwais will (for the honor of his Crown) in the true Reformed Religion of the Church of <hi>England.</hi> Certainly, he was no good Chriſtian to God, nor true Subject to the King, that dares ſay or think his Majeſty is not of the true Proteſtant Religion.</p>
+            <p>There are two things remarkable in the Frontiſ<g ref="char:EOLhyphen"/>piece of that Pamphlet, both above and below. That above is, <hi>Behold!</hi> a word of attention and ad<g ref="char:EOLhyphen"/>miration. In which <hi>Ecce</hi> you may behold (and I do as much admire at) the Pamphleteers ſpleene and malice. The word ſomtimes is uſed <hi>Ironice,</hi> in a de<g ref="char:EOLhyphen"/>riding and vilifying way: So <hi>Pilate</hi> ſaid of our Sa<g ref="char:EOLhyphen"/>viour, <hi>Ecce: Rex,</hi> Behold your goodly and hopeful King. That below is, <hi>in the year of Diſcoveries,</hi> in<g ref="char:EOLhyphen"/>timating what an Act hee had performed in the
+<pb facs="tcp:65319:4"/>Diſcovery of his Novelty. I do not a little wonder at the Printer, how hee durſt venter upon the Im<g ref="char:EOLhyphen"/>preſſion; and yet I need not much marvell, for <hi>quid non mortalia pectora cogit Auri ſacra fames?</hi> what will not the curſed love of money make men do in theſe dayes? But I pray God that all thoſe who conjecture or harbour ill in their private thoughts of or to the King, bee brought moſt deſervedly to publique ſhame. This is my wiſh, and this is my hope, many will ſay that thought is free, and there are too many (I know) that dare ſpeak what they think, and what they will, breaking forth into moſt ignominous ſpeeches, ſuch reproachfull and moſt odious termes, that our eares may tingle to heare them, and our hearts tremble to think on them. Tis now grown an ordinary ſin, and the common crime of theſe times (even at our very Commons and Ordinaries) to talke irreverently and diſgrace<g ref="char:EOLhyphen"/>fully of the Kings Majeſtly. There was a Raſcall (ſome call him <hi>Round-head</hi>) the ſame day that ſcandalous Pamphlet came forth, was not aſhamed to ſay that his Majeſty was a Papiſt when he was Prince of <hi>Wales,</hi> and is little better now he is King of <hi>England.</hi> Hence it is, that in love and loyalty to my gracious and Royall Sovereign, I was inſtiga<g ref="char:EOLhyphen"/>ted to vindicate His Majeſties honour from ſuch fowl aſperſions of calumny and detraction, which by factious and ſeditious ſpirits have of late been caſt upon him.</p>
+            <p>The impudence of ſome ſlaves is ſo frontleſſe, that they no more mind the King then I do a me<g ref="char:EOLhyphen"/>chanick, and dare prate treaſon in their cups, as
+<pb facs="tcp:65319:5"/>confidently, frequently, and familiarly amons<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their Comrades, as they will take tobacco upon their Alebenches. This is the iniquity of the baſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſort of people, whoſe practice is to deſpiſe Domi<g ref="char:EOLhyphen"/>nion, and ſpeak evill of Dignities, as St <hi>Iude</hi> ſpea<g ref="char:EOLhyphen"/>keth. O the curſed malice of this Generation! Oh the miſchievous multitude of this truly malignant Party. They may be aptly aſſimulated to the Di<g ref="char:EOLhyphen"/>vell himſelf, for they are Leg on many. They are ſo many in number, that like the flyes of <hi>Egypt,</hi> they ſwarm in all places of this Land. The action (or <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther faction) of theſe men is ſuch, as proclaimes them to affect an Ataxie, and to hate all order and conformity. Let them pretend what they will, they intend all that is ill. Their Religion is no<g ref="char:EOLhyphen"/>thing but Rebellion, their ſincerity ſedition, their Faith Faction, their Conſcience conſpiracy, their zeal fury, their devotion diſtraction, and (in the end to themſelves) deſtruction, and there I leave them</p>
+            <p>Let me now direct theſe ſubſequent lines to my native Country-men, that as they are all Subjects to one King, ſo they would ſubmit themſelvs to his legall Commands. Let them not by tumultuous uprores provoke his Maje<g ref="char:EOLhyphen"/>ſty: let them endeavour to keep the unity of the ſpirit in the bond of peace, and let us all pray unto the King of Kings for a happy union between the King and his par<g ref="char:EOLhyphen"/>liament, that they may both be of one mind and comply together. We are all bound by the law of God to honor our King as our deareſt parent. The very name of K is il<g ref="char:EOLhyphen"/>luſtrious, his Dignity glorious. Ther's a kind of Divinity in Monarchy. <hi>Diviſum Imperium cum Iove Caeſar habet, Vno minor eſt Iove.</hi> In all cauſes and over all perſons, aſwel Eccleſiaſticall as Civill, the King by Gods grace is Su<g ref="char:EOLhyphen"/>pream Head and <hi>Gubernator,</hi> next under his (<hi>reator:</hi> in<g ref="char:EOLhyphen"/>feriour to none but to God himſelf. To whoſe bleſſed tuition, let us daily commend him in our frequent Ori<g ref="char:EOLhyphen"/>zons.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
